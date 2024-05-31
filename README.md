@@ -11,3 +11,5 @@ Here's what gets me excited:
 I'm also diving into web development and coding, and I've already built a few websites.  👨‍💻  Still a beginner, but always eager to learn more! 
 
 If you're into any of those things, feel free to connect with me!  🤝
+
+![](https://komarev.com/ghpvc/?username=your-c-janith&style=flat-square)
