@@ -14,7 +14,7 @@ I'm also diving into web development and coding, and I've already built a few we
 
 If you're into any of those things, feel free to connect with me!  🤝
 
-# 🛠️ MY TOOLS AND LANG
+# MY TOOLS AND LANG
 <a href="https://heroku.com"><img src="https://img.icons8.com/color/48/000000/heroku.png"/></a>
 <a href="https://redis.io"><img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
 <a href="https://www.mongodb.com"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
