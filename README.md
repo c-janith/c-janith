@@ -14,4 +14,14 @@ I'm also diving into web development and coding, and I've already built a few we
 
 If you're into any of those things, feel free to connect with me!  🤝
 
+# 🛠️ MY TOOLS AND LANG
+<a href="https://heroku.com"><img src="https://img.icons8.com/color/48/000000/heroku.png"/></a>
+<a href="https://redis.io"><img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
+<a href="https://www.mongodb.com"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
+<a href="https://cloud.google.com"><img src="https://img.icons8.com/fluency/48/000000/google-cloud.png"/></a>
+<a href="https://azure.microsoft.com/"><img src="https://img.icons8.com/fluency/48/000000/azure-1.png"/></a>
+<a href="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+<a href="https://digitalocean.com/"><img src="https://img.icons8.com/digitalocean"/></a>
+<a href="https://linode.com/"><img src="https://img.icons8.com/color/48/000000/linode"/></a>
+
 ![](https://komarev.com/ghpvc/?username=your-c-janith&style=flat-square)
