@@ -25,5 +25,5 @@ If you're into any of those things, feel free to connect with me!  🤝
 <a href="https://linode.com/"><img src="https://img.icons8.com/color/48/000000/linode"/></a>
 
 # GITHUB STATUS
-[![MY GitHub stats](https://github-readme-stats.vercel.app/api?username=c-janith&show_icons=true&theme=radical)](https://github.com/c-janith/github-readme-stats)
+[![MY GitHub stats](https://github-readme-stats.vercel.app/api?username=c-janith&show_icons=true&theme=radical)](https://github.com/c-janith/github-readme-stats) <br>
 ![](https://komarev.com/ghpvc/?username=your-c-janith&style=flat-square)
